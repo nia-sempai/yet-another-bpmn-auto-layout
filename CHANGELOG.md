@@ -2,6 +2,9 @@
 
 All notable changes to [yet-another-bpmn-auto-layout](https://github.com/IvanTulaev/yet-another-bpmn-auto-layout) are documented here. We use [semantic versioning](http://semver.org/) for releases.
 
+## 2.0.2
+- feat: add text annotation - first iteration for flow elements #8
+
 ## 2.0.1
 - fix: layout fails when several sequence flows connect the same elements
 - chore: update webpack Ivan Tulaev 4 minutes ago 6eb9690a
