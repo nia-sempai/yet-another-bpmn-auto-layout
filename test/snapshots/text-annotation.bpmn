@@ -18,6 +18,13 @@
   </bpmn:process>
   <bpmndi:BPMNDiagram id="BPMNDiagram_Process_1tcp663">
     <bpmndi:BPMNPlane id="BPMNPlane_Process_1tcp663" bpmnElement="Process_1tcp663">
+      <bpmndi:BPMNShape bpmnElement="TextAnnotation_02h6pcj">
+        <dc:Bounds x="275" y="-30" width="50" height="60" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="Association_0z1r79p_di" bpmnElement="Association_0z1r79p">
+        <di:waypoint x="225" y="30" />
+        <di:waypoint x="275" y="0" />
+      </bpmndi:BPMNEdge>
       <bpmndi:BPMNShape id="Event_1dhv5lg_di" bpmnElement="Event_1dhv5lg">
         <dc:Bounds x="57" y="52" width="36" height="36" />
       </bpmndi:BPMNShape>
